@@ -17,10 +17,15 @@ cd ..
 make menuconfig
 ```
 Select Utilities
+
 Move to the wrthelp line and press Y
+
 Save
+
 Exit
+
 Exit
+
 `make`
 
 Installation
