@@ -5,8 +5,8 @@ WRTnode package to print instructions for command line tools
 
 This is a modified version of the example helloworld package featured in the [Openwrt development](http://wiki.wrtnode.com/index.php?title=Openwrt_development) page on the WRTnode Wiki. It prints a summary of the steps needed to get the WRTnode online from the [Starting](http://wiki.wrtnode.com/index.php?title=Starting) page of the WRTnode Wiki.
 
-Instructions
-------------
+Building
+--------
 
 From the root of the WRTnode SDK:
 
@@ -21,7 +21,9 @@ Move to the wrthelp line and press Y
 Save  
 Exit  
 Exit  
-`make`
+```
+make
+```
 
 Installation
 ------------
