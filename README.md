@@ -16,16 +16,11 @@ git clone https://github.com/cpswan/wrthelp.git
 cd ..
 make menuconfig
 ```
-Select Utilities
-
-Move to the wrthelp line and press Y
-
-Save
-
-Exit
-
-Exit
-
+Select Utilities  
+Move to the wrthelp line and press Y  
+Save  
+Exit  
+Exit  
 `make`
 
 Installation
