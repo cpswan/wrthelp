@@ -8,6 +8,13 @@ This is a modified version of the example helloworld package featured in the [Op
 Building
 --------
 
+First build/download the WRTnode SDK. If you want a super easy way to do this then [install Docker](http://docs.docker.com/installation/) then run the SDK inside a Docker container:
+
+```
+sudo docker run -it cpswan/wrtnodesdk
+cd OpenWrt-SDK-ramips-for-linux-x86_64-gcc-4.8-linaro_uClibc-0.9.33.2
+```
+
 From the root of the WRTnode SDK:
 
 ```
