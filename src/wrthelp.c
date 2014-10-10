@@ -20,7 +20,7 @@ int main(void){
  printf("WPAPSK/TKIP		WPAPSK/TKIP\n");
  printf("WEP			WEP/WEP\n");
  printf("\n");
- printf("Exit vi with ':wq' then restart network with 'nr'\n");
+ printf("Exit vi with 'Esc:wq' then restart network with 'nr'\n");
  printf("\n");
  printf("Run 'ia' to see that the WRTnode got a DHCP lease\n");
  printf("\n");
